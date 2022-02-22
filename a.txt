@@ -7,6 +7,9 @@
 teste
 21/02/2022
 
+<<<<<<< HEAD
+teste
+=======
 teste
 teste
 
@@ -15,3 +18,4 @@ teste
 teste
 21/02/2022
 
+>>>>>>> main
