@@ -7,4 +7,15 @@
 teste
 21/02/2022
 
+<<<<<<< HEAD
 teste
+=======
+teste
+teste
+
+22h58m
+
+teste
+21/02/2022
+
+>>>>>>> main
